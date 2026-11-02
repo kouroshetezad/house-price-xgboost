@@ -36,7 +36,7 @@ pandas numpy xgboost scikit-learn seaborn matplotlib
 ## Run
 
 ```bash
-python project6.py
+python house-price-prediction.py
 ```
 
 Outputs: `correlation_heatmap.png`, `pca_variance.png`, `pca_loadings.png`, `test_with_predictions.csv`.
