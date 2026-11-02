@@ -1,0 +1,15 @@
+# Data
+*.csv
+
+# Keep the bundled sample output
+!test_with_predictions.csv
+
+# Generated outputs
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
